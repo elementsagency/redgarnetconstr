@@ -270,8 +270,11 @@ h4{
   color: #222222;
   border-color: white;
 }
-.hero, .hero2{
+.hero{
   padding: 200px 0;
+}
+.hero2{
+  padding: 300px 0;
 }
 @media (min-width: 992px) {
     h1{
